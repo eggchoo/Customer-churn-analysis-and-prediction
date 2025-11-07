@@ -1,6 +1,7 @@
-# Telecom Churn Analysis and Future Churn Prediction 
+# TelecomX Churn Analysis and Future Churn Prediction 
 ---
-#### This report integrates findings from both the **Churn Analysis** and **Churn Prediction** to provide a holistic view of customer attrition in a telecommunications context. The analysis highlights key factors driving churn, identifies customer segments most at risk of leaving, and proposes actionable, stakeholder-specific strategies to enhance customer retention, satisfaction, and revenue stability.
+#### **TeleComX** is a leading telecommunications provider offering broadband, mobile, and digital communication services to customers across multiple regions. This report integrates findings from both the **Churn Analysis** and **Churn Prediction** to provide a comprehensive view of customer attrition within the company. The analysis identifies key factors influencing churn, highlights high-risk customer segments, and presents actionable strategies to improve retention, enhance customer satisfaction, and support long-term business growth.
+
 
 ---
 ## Metrics 
